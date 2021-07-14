@@ -3,12 +3,12 @@ only compatible with traditional Chinese verson on DOS platform, to use the func
 
 py文件需放到大航海时代2DOS中文版的游戏文件夹下并使用IDE编译。
 
-# Showcase
+## Showcase
  ![alt text](https://github.com/Tuo-ZHANG/Uncharted-water-2-editor-2-/blob/main/screenshot1.png)
  
  ![alt text](https://github.com/Tuo-ZHANG/Uncharted-water-2-editor-2-/blob/main/screenshot2.jpg)
 
-# Acknowledge
+## Acknowledge
 Reverse engineering documentation I have consulted:
 
 http://c.tieba.baidu.com/p/4245309818?fid=8455
